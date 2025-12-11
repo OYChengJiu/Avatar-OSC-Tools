@@ -4,6 +4,7 @@
 
 ![VRC OSC 快捷键面板界面](image.png)
 
+
 ## 环境要求
 
 - Windows 10/11。
