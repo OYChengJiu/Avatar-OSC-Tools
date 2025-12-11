@@ -15,7 +15,7 @@ python main.py
 ```
 
 ## 打包（示例使用 PyInstaller）
-已提供 `VRCBoolHotkeys.spec` 和 `file_version_info.txt`（含作者 OY橙子 的版本资源），可直接用 spec 打包：
+已提供 `VRCBoolHotkeys.spec` 和 `file_version_info.txt`，可直接用 spec 打包：
 ```bash
 pyinstaller VRCBoolHotkeys.spec
 ```
